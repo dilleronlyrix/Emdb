@@ -211,4 +211,4 @@ EMDB is offered as a full free version with all features and updates included—
 Take your movie collection management to the next level with EMDB—**download now** and start organizing your films today!
 
 ---
-**Last updated:** 2026-09-15 22:45:55 UTC
+**Last updated:** 2026-09-16 01:03:13 UTC
